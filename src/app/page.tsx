@@ -5,7 +5,7 @@ import { quotes, Quote } from "../../quotes";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { motion, AnimatePresence } from "framer-motion";
-import { Sparkles, Lightbulb, BookOpen } from "lucide-react";
+import { Sparkles, Lightbulb, } from "lucide-react";
 
 const suggestions = ["Inspiration", "Life", "Success", "Happiness", "Motivation"];
 
